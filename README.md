@@ -20,6 +20,7 @@ The purpose of this analysis was to provide detailed information for the perform
   - In the original data THS had a lower overall passing ercentage, seen below.
 
 ![school summary original](Resources/school_summary_orig.png)
+
   - When the data was altered to remove the 9th grade, shown below, THS increased its overall passing performance, as well as its average reading score, passing math percentage, and reading percentage.
 
 ![school summary new](Resources/school_summary_new.png)
@@ -30,17 +31,18 @@ The purpose of this analysis was to provide detailed information for the perform
 
 ![top 5 new](Resources/top_5_new.png)
 
-- This is an increase from the original data that included the 9th grade student data as shown below.
+  - This is an increase from the original data that included the 9th grade student data as shown below.
 
 ![top 5 original](Resources/top_5_orig.png)
  
 - When replacing the 9th grade scores the following were affected:
+  
   - The math scores by each grade were unaffected other than the 9th grade for THS being replaced with nan, which stands for not a number. This can been seen in the 2 figures below:
-  Scores of grades after data being altered:
+   - Scores of grades after data being altered:
 
 ![math score grade new](Resources/math_score_by_grade_new.png)
 
-The original data:
+    - The original data:
 
 ![math score grade original](Resources/math_score_by_grade_orig.png)
 

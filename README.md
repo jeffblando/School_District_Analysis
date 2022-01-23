@@ -36,9 +36,9 @@ The purpose of this analysis was to provide detailed information for the perform
 ![top 5 original](Resources/top_5_orig.png)
  
 When replacing the 9th grade scores the following were affected:
-  
+
   - The math scores by each grade were unaffected other than the 9th grade for THS being replaced with nan, which stands for not a number. 
-   - Scores of grades after data being altered:
+    - Scores of grades after data being altered:
 
 ![math score grade new](Resources/math_score_by_grade_new.png)
 

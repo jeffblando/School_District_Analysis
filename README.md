@@ -55,8 +55,13 @@ When replacing the 9th grade scores the following were affected:
 
 ![reading score grade original](Resources/reading_score_by_grade_orig.png)
  
-  - Scores by school spending 
+  - There were no changes to the scores when looking at the databy school spending:
+    - Altered data    
+    
 ![score by spending new](Resources/scores_by_spending_new.png)
+
+    - Original data
+    
 ![score by spending original](Resources/scores_by_spending_orig.png)
 
   - There were no changes to the scores when looking at the data by school size: 
@@ -78,4 +83,4 @@ When replacing the 9th grade scores the following were affected:
 
 ### Summary
 
-The updated school district analysis after the reading and math scores for the ninth grade at Thomas High School were replaced with NaNs is quite significant.
+The updated school district analysis after the reading and math scores for the ninth grade at Thomas High School were replaced with NaNs is quite significant. Overall, the performance data increased across all categories being analized. There was also a small increase in overall performance when looking at the difference between charter and schools within the distric. When looking at several sub categories, you can see that were no changes in the values when looking at spending and size of the school. There were also no changes when looking at the different grades levels within THS.

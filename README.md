@@ -42,16 +42,16 @@ When replacing the 9th grade scores the following were affected:
 
 ![math score grade new](Resources/math_score_by_grade_new.png)
 
-    - The original data:
+  - The original data:
 
 ![math score grade original](Resources/math_score_by_grade_orig.png)
 
   - The reading scores by each grade were also unaffected by the altering of the data with the exception of THS' 9th grade.
- Original data:
+    - Original data:
 
 ![reading score grade new](Resources/reading_score_by_grade_new.png)
 
-Altered data:
+    - Altered data:
 
 ![reading score grade original](Resources/reading_score_by_grade_orig.png)
  
@@ -60,11 +60,11 @@ Altered data:
 ![score by spending original](Resources/scores_by_spending_orig.png)
 
   - There were no changes to the scores when looking at the data by school size: 
- Altered data:
+    - Altered data:
 
 ![score by size new](Resources/scores_by_size_new.png)
 
-Original data:
+    - Original data:
 
 ![schores by sice original](Resources/scores_by_size_orig.png)
 
@@ -72,7 +72,7 @@ Original data:
 
 ![scores by type new](Resources/scores_by_type_new.png)
 
-The original data by comparison  is shown below.
+    - The original data by comparison  is shown below.
 
 ![scores by type original](Resources/scores_by_type_orig.png)
 

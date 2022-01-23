@@ -8,7 +8,7 @@ The purpose of this analysis was to provide detailed information for the perform
 ### Results
 
 - Overall the district summary changes when you alter the data of Thomas High School (THS) as seen in the next two figures below:
-  -The newly calculated results are shown below.
+  - The newly calculated results are shown below.
   
 ![distric summary new](Resources/district_summary_new.png)
   
@@ -35,9 +35,9 @@ The purpose of this analysis was to provide detailed information for the perform
 
 ![top 5 original](Resources/top_5_orig.png)
  
-- When replacing the 9th grade scores the following were affected:
+When replacing the 9th grade scores the following were affected:
   
-  - The math scores by each grade were unaffected other than the 9th grade for THS being replaced with nan, which stands for not a number. This can been seen in the 2 figures below:
+  - The math scores by each grade were unaffected other than the 9th grade for THS being replaced with nan, which stands for not a number. 
    - Scores of grades after data being altered:
 
 ![math score grade new](Resources/math_score_by_grade_new.png)
